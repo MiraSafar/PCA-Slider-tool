@@ -1,0 +1,6 @@
+# PCA slider tool required Python modules:
+
+pygame == 2.4.0
+numpy
+scikit-learn == 0.23.2
+tensorflow == 2.4.1
